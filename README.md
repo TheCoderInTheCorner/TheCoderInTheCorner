@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @TheCoderInTheCorner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me N/a
+m8 just look at my work for crying out loud
 
 <!---
 TheCoderInTheCorner/TheCoderInTheCorner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
