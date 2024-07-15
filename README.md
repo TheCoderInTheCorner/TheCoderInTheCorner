@@ -1,4 +1,4 @@
-m8 just look at my work for crying out loud
+
 
 <!---
 TheCoderInTheCorner/TheCoderInTheCorner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
